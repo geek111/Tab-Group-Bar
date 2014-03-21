@@ -8,7 +8,7 @@ var objTabGroupBar = {
     ignoreNextEvent: false,
     hideWhenMouseIsAway: false,
     debugTabs: [],
-    monnefDebugEnabled: true,
+    monnefDebugEnabled: false,
     runLaterDelay: 100,
     runLaterMaxTries: 10,
     runLaterTry: 0,
