@@ -23,9 +23,9 @@
 
         
         <em:creator>Krzysztof Dawidowicz</em:creator>
+        <em:developer>monnef</em:developer>
         <em:description>Adds a bar with tabs representing tab groups.</em:description>
         <em:homepageURL>https://github.com/IIUJ-KrzysztofDawidowicz/Tab-Group-Bar</em:homepageURL>
-		
 
     </Description>
 </RDF>
